@@ -1,0 +1,19 @@
+{ "name": "telegram", "url": "https://t.me/Thundersnow_TokenTT" }
+      ],
+      "tags": []
+    },
+    {
+      "address": "0xC6789663ce35A317eAC144CF2B9B90c2BbF96136",
+      "symbol": "ThunderSNOW",
+      "name": "ThunderSNOW",
+      "decimals": 12,
+      "description": "",
+      "ttswap_exchange": "0x96289CC77d604EF7C5E0017C733d24b884bF6D48",
+      "website": "https://ttflash.online/",
+      "socials": [
+        { "name": "telegram", "url": "https://t.me/Thundersnow_TokenTT" }
+      ],
+      "tags": []
+    }
+  ]
+}
